@@ -38,4 +38,4 @@ The dataset was preprocessed using **Label Encoding** for categorical variables 
 ---
 
 For further details and code implementation, explore this report:  
-[Aya El Saoudi - MSBA Capstone Report](Aya El Saoudi - MSBA Capstone Report .pdf)
+[Aya El Saoudi - MSBA Capstone Report](Aya_El_Saoudi_MSBA_Capstone_Report_.pdf)
