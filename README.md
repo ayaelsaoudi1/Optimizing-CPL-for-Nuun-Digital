@@ -39,5 +39,8 @@ The dataset was preprocessed using **Label Encoding** for categorical variables 
 
 ---
 
+For a live view of the Power BI dashboard, visit the [dashboard here](https://app.powerbi.com/groups/me/reports/e0139c2a-d03a-4dac-9a3e-d6db3486a0a5/a5897d62e7e3656339cc?experience=power-bi).
+
+
 For further details and code implementation, explore this report:  
 [PDF Report](https://github.com/ayaelsaoudi1/Optimizing-CPL-for-Nuun-Digital/blob/main/Aya%20El%20Saoudi%20-%20MSBA%20Capstone%20Report%20.pdf).
