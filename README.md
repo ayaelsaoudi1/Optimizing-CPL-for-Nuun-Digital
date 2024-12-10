@@ -40,4 +40,4 @@ The dataset was preprocessed using **Label Encoding** for categorical variables 
 ---
 
 For further details and code implementation, explore this report:  
-[PDF Report](https://github.com/ayaelsaoudi1/Optimizing-CPL-for-Nuun-Digital/main/Aya_El_Saoudi_-_MSBA_Capstone_Report_.pdf)
+[PDF Report](https://github.com/ayaelsaoudi1/Optimizing-CPL-for-Nuun-Digital/blob/main/Aya%20El%20Saoudi%20-%20MSBA%20Capstone%20Report%20.pdf).
